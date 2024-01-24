@@ -31,7 +31,9 @@ I am currently pursuing Master's of Engineering in Robotics at University of Mar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="arduino" width="90" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="pytorch" width="90" height="50"/>
+  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="90" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/matlab.svg" alt="matlab" width="90" height="50"/>
 </p>
 
 ## GitHub Stats:
